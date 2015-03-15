@@ -18,4 +18,4 @@ Supported Operations:
 - Blur
 
 ##UI
-![UI](https://cloud.githubusercontent.com/assets/666055/6658583/0b418084-cb7f-11e4-8964-8a46d012daf1.png)
+![UI](https://cloud.githubusercontent.com/assets/666055/6658609/d946e258-cb7f-11e4-9c0f-e63a50fcd560.png)
