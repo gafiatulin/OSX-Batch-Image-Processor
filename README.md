@@ -1,6 +1,8 @@
 # Batch Image Processor for OS X written in Objective-C
 
-Operations: 
+Student project.
+
+Supported Operations: 
 - Resize
 - Crop
 - Rotation
