@@ -1,6 +1,6 @@
 # Batch Image Processor for OS X written in Objective-C
 
-**Student project.**
+**Student project. Year 2013.**
 
 Supported Operations: 
 - Resize
